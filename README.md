@@ -23,6 +23,7 @@ JavaScript: For implementing game logic and interactions
 * Choose your move by clicking on Rock, Paper, or Scissors buttons.
 * The computer will make a random move.
 * The result of the round (Win, Lose, or Draw) will be displayed.
+* The score will be updated based on the outcome of each round.
 
 **Acknowledgments**
 Thanks to MDN Web Docs for providing helpful documentation and tutorials.
